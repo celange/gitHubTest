@@ -1,2 +1,2 @@
 # gitHubTest
-Just tests
+Just a playground to learn GitHub.
